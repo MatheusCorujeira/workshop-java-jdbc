@@ -34,6 +34,7 @@ public class DepartmentFormController implements Initializable{
 			
 	@FXML
 	private TextField txtId;
+	
 	@FXML
 	private TextField txtName;
 	
